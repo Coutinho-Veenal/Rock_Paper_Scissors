@@ -1,0 +1,1 @@
+A simple and interactive Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. Features a clean user interface, smooth animations, and instant result display for a fun browser-based gaming experience.
